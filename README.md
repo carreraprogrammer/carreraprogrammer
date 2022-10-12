@@ -1,5 +1,4 @@
 
-<img src="https://www.canva.com/design/DAFOyjWSX5k/c0QWeAQI7KSwQ3vi9anJow/view?utm_content=DAFOyjWSX5k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink>
 <h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
