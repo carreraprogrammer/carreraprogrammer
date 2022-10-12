@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Daniel Carrera</h1>
+<h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
 
 ![](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/Banner.png)
 
