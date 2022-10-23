@@ -2,7 +2,7 @@
 
 ![](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/Banner.png)
 
-<h3 align="center">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of.</h3>
+<h3 align="center">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of. Currently, I'm available for hire and I'm always interested to work in new projects. </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carreraprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="carreraprogrammer" /> </p>
 
