@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
-
 ![](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/Banner.png)
 
-<h3 align="center">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of. Currently, I'm available for hire and I'm always interested to work in new projects. </h3>
+<h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carreraprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="carreraprogrammer" /> </p>
+<h2 align="left">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of. Currently, I'm available for hire and I'm always interested to work in new projects.
+
+</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carreraprogrammer" alt="carreraprogrammer" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carreraprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="carreraprogrammer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/carreraprog" target="blank"><img src="https://img.shields.io/twitter/follow/carreraprog?logo=twitter&style=for-the-badge" alt="carreraprog" /></a> </p>
 
