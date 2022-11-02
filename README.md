@@ -1,4 +1,4 @@
-![](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/Banner.png)
+![](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/Banner2.png)
 
 <h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
 
