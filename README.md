@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Carrera</h1>
 
-<h2 align="left">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of. Currently, I'm available for hire and I'm always interested to work in new projects.
+<h3 align="left">Accidentally I discovered that I love programming. Now, I will do all necessary to become the best programmer I have ever dreamed of. Currently, I'm available for hire and I'm always interested to work in new projects.
 
 </h3>
 
