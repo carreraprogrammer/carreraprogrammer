@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/carreraprog" target="blank"><img src="https://img.shields.io/twitter/follow/carreraprog?logo=twitter&style=for-the-badge" alt="carreraprog" /></a> </p>
 
-- 🔭 I’m currently working on [To-Do List](https://carreraprogrammer.github.io/To-do-List/dist/)
+- 🔭 I’m currently working on [Bookstore App](https://carreraprogrammer.github.io/To-do-List/dist/](https://github.com/carreraprogrammer/bookstore)
 
 - 🌱 I’m currently learning **JavaScript, Ruby**
 
