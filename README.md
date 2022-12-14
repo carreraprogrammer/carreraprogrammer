@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/carreraprog" target="blank"><img src="https://img.shields.io/twitter/follow/carreraprog?logo=twitter&style=for-the-badge" alt="carreraprog" /></a> </p>
 
-- 🔭 I’m currently working on [Bookstore App](https://carreraprogrammer.github.io/To-do-List/dist/](https://github.com/carreraprogrammer/bookstore)
+- 🔭 I’m currently working on [MiEvent](https://carreraprogrammer.github.io/To-do-List/dist/](https://github.com/carreraprogrammer/mievent)
 
 - 🌱 I’m currently learning **JavaScript, Ruby**
 
@@ -31,5 +31,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carreraprogrammer&show_icons=true&locale=en" alt="carreraprogrammer" />
  
-<p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=carreraprogrammer&theme=highcontrast&border_radius=20&currStreakNum=FFF8FA&border=C10C26&ring=C10C26" alt="carreraprogrammer" />
+<p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=carreraprogrammer&theme=highcontrast&border_radius=20&currStreakNum=FFF8FA&border=000000&ring=C10C26&background=450412" alt="carreraprogrammer" />
 
