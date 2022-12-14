@@ -30,5 +30,6 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carreraprogrammer&show_icons=true&locale=en" alt="carreraprogrammer" />
-  
-<p align="center><img align="center src= "https://streak-stats.demolab.com?user=carreraprogrammer&theme=monokai&border_radius=20&currStreakNum=DD0000" /></p>
+ 
+<p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=carreraprogrammer&theme=monokai&border_radius=20&currStreakNum=DD0000" alt="carreraprogrammer" />
+
