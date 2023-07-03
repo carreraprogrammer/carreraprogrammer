@@ -68,9 +68,6 @@ Accidentally, I discovered my passion for programming. Now, I'm committed to bec
 
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreraprogrammer&theme=merko&border_radius=20&border=C10C26&ring_color=C10C26&bg_color=450412&icon_color=C10C26&include_all_commits=true&title_color=f4f5f0&text_color=f4f5f0"/>
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carreraprogrammer&show_icons=true&locale=en&theme=merko&border_radius=20&border=C10C26&ring_color=C10C26&bg_color=450412&icon_color=C10C26&include_all_commits=true&title_color=f4f5f0&text_color=f4f5f0" alt="carreraprogrammer" />
