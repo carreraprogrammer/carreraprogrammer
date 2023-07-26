@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Daniel Carrera
 
-Accidentally, I discovered my passion for programming. Now, I'm committed to becoming the best programmer I've ever dreamed of. Currently, I'm available for hire and always interested in working on new projects.
+As a highly skilled full-stack software engineer, I possess expertise in transforming innovative ideas into optimized and efficient solutions using a powerful stack of technologies, including JavaScript, React, Redux, and Rails. My passion for taking on new and exciting projects is boundless, and I thrive on the challenges they present. Additionally, my entrepreneurial spirit fuels my drive to not only build exceptional software but also to identify opportunities for growth and development in the tech industry. With a proven track record of successful project implementations, I am eager to collaborate with like-minded professionals and contribute my talents to the advancement of cutting-edge software solutions.
 
 ## GitHub Stats
 <p align="center">
