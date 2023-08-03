@@ -4,6 +4,10 @@
 
 As a highly skilled full-stack software engineer, I possess expertise in transforming innovative ideas into optimized and efficient solutions using a powerful stack of technologies, including JavaScript, React, Redux, and Rails. My passion for taking on new and exciting projects is boundless, and I thrive on the challenges they present. Additionally, my entrepreneurial spirit fuels my drive to not only build exceptional software but also to identify opportunities for growth and development in the tech industry. With a proven track record of successful project implementations, I am eager to collaborate with like-minded professionals and contribute my talents to the advancement of cutting-edge software solutions.
 
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=carreraprogrammer&bg_color=450412&color=f4f5f0&line=f4f5f0&point=C10C26&area=true&hide_border=true" alt="carreraprogrammer" />
+</p>
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carreraprogrammer&column=3&theme=dark_lover&row=2" alt="carreraprogrammer" />
