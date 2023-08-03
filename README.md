@@ -1,4 +1,4 @@
-![Banner](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/bnr.png)
+![Banner](https://github.com/carreraprogrammer/carreraprogrammer/blob/main/bnr.gif)
 
 # Hi 👋, I'm Daniel Carrera
 
